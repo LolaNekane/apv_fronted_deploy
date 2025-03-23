@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { Link, useNavigate } from "react-router-dom"
 import useAuth from "../hook/useAuth"
-import Alerta from "../components/alerta";
+import Alerta from "../components/Alerta";
 import clienteAxios from "../config/axios";
 
 

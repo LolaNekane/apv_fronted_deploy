@@ -1,7 +1,7 @@
 import { use, useEffect, useState } from "react"
 import AdminNav from "../components/AdminNav"
 import useAuth from "../hook/useAuth";
-import Alerta from "../components/alerta";
+import Alerta from "../components/Alerta";
 
 const EditarPerfil = () => {
     const {auth, actulizarPerfil} = useAuth();
