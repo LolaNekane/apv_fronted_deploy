@@ -1,6 +1,6 @@
 import { use, useState } from "react";
 import AdminNav from "../components/AdminNav"
-import Alerta from "../components/alerta";
+import Alerta from "../components/Alerta";
 import useAuth from "../hook/useAuth";
 
 
